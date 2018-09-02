@@ -1,0 +1,10 @@
+conda-meta/
+DLLs/
+Doc/
+include/
+Lib/
+Library/
+libs/
+Scripts/
+tcl/
+Tools/
